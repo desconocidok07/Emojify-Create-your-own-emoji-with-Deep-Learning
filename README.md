@@ -11,6 +11,7 @@ This project uses deep learning to classify facial expressions and map them to c
    - Resize facial images to 48x48.
 2. **CNN Training**:
    - Train on FER2013 dataset.
+   -Download Dataset: https://www.kaggle.com/msambare/fer2013?
 3. **Emoji Mapping**:
    - Map classified emotions to emojis or avatars.
 
